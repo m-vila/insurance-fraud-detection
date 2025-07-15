@@ -4,6 +4,8 @@
 
 This project analyzes insurance claim fraud patterns using a dataset of 1,000 claims from January to March 2015 across seven US states. The analysis reveals that 24.7% of claims are fraudulent, with fraudulent claims averaging $60,302 - nearly 20% higher than legitimate claims. Through comprehensive data analysis, this project identifies key fraud indicators including temporal patterns, demographic profiles, and behavioral red flags that can enhance fraud detection capabilities.
 
+Data source: Kaggle - [Auto Insurance Claims Data](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data)
+
 ## Dataset Description
 
 The analysis uses an insurance claims dataset containing:
@@ -54,7 +56,22 @@ Synthesized findings into five critical questions:
 
 Preview of the dashboard:
 
-![insurance-fraud-detection](https://github.com/m-vila/insurance-fraud-detection/blob/main/GEICO%20PowerBI%20Dashboard%20Preview.png?raw=true)
+1. All Data Preview
+
+![insurance-fraud-detection](https://github.com/m-vila/insurance-fraud-detection/blob/main/Geico%20Dashboard%20prev%20-%20all%20data.png?raw=true)
+
+2. Jan 2015 Data Preview
+
+![insurance-fraud-detection](https://github.com/m-vila/insurance-fraud-detection/blob/main/Geico%20Dashboard%20prev%20-%20Jan%202015.png?raw=true)
+
+3. Feb 2015 Data Preview
+
+![insurance-fraud-detection](https://github.com/m-vila/insurance-fraud-detection/blob/main/Geico%20Dashboard%20prev%20-%20Feb%202015.png?raw=true)
+
+4. Mar 2015 Data Preview
+
+![insurance-fraud-detection](https://github.com/m-vila/insurance-fraud-detection/blob/main/Geico%20Dashboard%20prev%20-%20Mar%202015.png?raw=true)
+
 
 ## Future Work
 
